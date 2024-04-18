@@ -1,0 +1,4 @@
+ls
+nano linuxscript.sh
+chmod +x linuxscript.sh
+./linuxscript.sh
